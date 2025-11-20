@@ -1,0 +1,46 @@
+﻿body {
+    background:linear-gradient(180deg,rgba(0, 0, 0, 1) 0%, rgba(6, 26, 0, 1) 100%);
+    background-attachment:fixed;
+}
+
+.caiw {
+    color:deeppink;
+}
+p
+{
+    font-family:Courier New, Courier, monospace;
+    color:#00ff00;
+    text-align:center;
+    font-size:25px;
+}
+.Title
+{
+    font-size:30px;
+}
+#Scho{
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    font-size:100px;
+    transform:perspective(400px) rotateX(20deg) translateZ(100px);
+}
+.tip{
+    text-align:center;
+    background-color:black;
+    margin:auto;
+    color:#00ff00;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:3px solid white;
+    width:400px;
+    padding:15px;
+}
+
+.h82{
+    color:aqua;
+}
+
+.jimbob{
+    color:dimgray
+}
+.link{
+    text-align:center;
+}

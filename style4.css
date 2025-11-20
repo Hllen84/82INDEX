@@ -1,0 +1,19 @@
+﻿body {
+    background-color:black;
+    overflow-wrap: break-word;
+}
+p{
+    color:#00ff21;
+    font-family:Courier New, Courier, monospace;
+    font-size:25px;
+}
+
+.angry{
+    color:red;
+}
+
+a{
+    color: #00ff21;
+    font-family: Courier New, Courier, monospace;
+    font-size: 25px;
+}

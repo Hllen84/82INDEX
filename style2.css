@@ -1,0 +1,33 @@
+﻿body {
+    background:black;
+    background-attachment:fixed;
+}
+
+
+p
+{
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+    font-size:25px;
+    text-align:left;
+}
+span{
+    color:red
+}
+.h82{
+    color:skyblue;
+}
+
+.jimbob{
+    color:dimgray;
+}
+
+.caiw {
+    color:deeppink;
+}
+
+.Title{
+    font-size:50px;
+    margin-bottom:200px;
+    margin-top:200px;
+}
